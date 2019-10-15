@@ -1,0 +1,14 @@
+C:\Users\805730\Desktop\AAW\Aula3\Pedido.API\obj\Debug\netcoreapp2.1\Pedido.API.csprojAssemblyReference.cache
+C:\Users\805730\Desktop\AAW\Aula3\Pedido.API\obj\Debug\netcoreapp2.1\Pedido.API.csproj.CoreCompileInputs.cache
+C:\Users\805730\Desktop\AAW\Aula3\Pedido.API\obj\Debug\netcoreapp2.1\Pedido.API.RazorAssemblyInfo.cache
+C:\Users\805730\Desktop\AAW\Aula3\Pedido.API\obj\Debug\netcoreapp2.1\Pedido.API.RazorAssemblyInfo.cs
+C:\Users\805730\Desktop\AAW\Aula3\Pedido.API\obj\Debug\netcoreapp2.1\Pedido.API.AssemblyInfoInputs.cache
+C:\Users\805730\Desktop\AAW\Aula3\Pedido.API\obj\Debug\netcoreapp2.1\Pedido.API.AssemblyInfo.cs
+C:\Users\805730\Desktop\AAW\Aula3\Pedido.API\bin\Debug\netcoreapp2.1\Pedido.API.deps.json
+C:\Users\805730\Desktop\AAW\Aula3\Pedido.API\bin\Debug\netcoreapp2.1\Pedido.API.runtimeconfig.json
+C:\Users\805730\Desktop\AAW\Aula3\Pedido.API\bin\Debug\netcoreapp2.1\Pedido.API.runtimeconfig.dev.json
+C:\Users\805730\Desktop\AAW\Aula3\Pedido.API\bin\Debug\netcoreapp2.1\Pedido.API.dll
+C:\Users\805730\Desktop\AAW\Aula3\Pedido.API\bin\Debug\netcoreapp2.1\Pedido.API.pdb
+C:\Users\805730\Desktop\AAW\Aula3\Pedido.API\obj\Debug\netcoreapp2.1\Pedido.API.RazorTargetAssemblyInfo.cache
+C:\Users\805730\Desktop\AAW\Aula3\Pedido.API\obj\Debug\netcoreapp2.1\Pedido.API.dll
+C:\Users\805730\Desktop\AAW\Aula3\Pedido.API\obj\Debug\netcoreapp2.1\Pedido.API.pdb
